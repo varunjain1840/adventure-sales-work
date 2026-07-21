@@ -1,0 +1,54 @@
+[
+
+    {
+        "rel_url":"varunjain1840/adventure-sales-work/refs/heads/main/data/AdventureWorks_Returns.csv",
+        "p_file":"Returns",
+        "p_sink":"returns.csv"
+    },
+    {
+        "rel_url":"varunjain1840/adventure-sales-work/refs/heads/main/data/AdventureWorks_Calendar.csv",
+        "p_file":"Calender",
+        "p_sink":"Calender.csv"
+    },
+    {
+        "rel_url":"varunjain1840/adventure-sales-work/refs/heads/main/data/AdventureWorks_Customers.csv",
+        "p_file":"Customers",
+        "p_sink":"Customers.csv"
+    },
+    {
+        "rel_url":"varunjain1840/adventure-sales-work/refs/heads/main/data/AdventureWorks_Product_Categories.csv",
+        "p_file":"Product_Categories",
+        "p_sink":"Product_Categories.csv"
+    },
+    {
+        "rel_url":"varunjain1840/adventure-sales-work/refs/heads/main/data/AdventureWorks_Product_Subcategories.csv",
+        "p_file":"Product_Subcategories",
+        "p_sink":"Product_Subcategories.csv"
+    },
+    {
+        "rel_url":"varunjain1840/adventure-sales-work/refs/heads/main/data/AdventureWorks_Products.csv",
+        "p_file":"Products",
+        "p_sink":"Products.csv"
+    },
+    {
+        "rel_url":"varunjain1840/adventure-sales-work/refs/heads/main/data/AdventureWorks_Sales_2015.csv",
+        "p_file":"Sales_2015",
+        "p_sink":"Sales_2015.csv"
+    },
+    {
+        "rel_url":"varunjain1840/adventure-sales-work/refs/heads/main/data/AdventureWorks_Sales_2016.csv",
+        "p_file":"Sales_2016",
+        "p_sink":"Sales_2016.csv"
+    },
+    {
+        "rel_url":"varunjain1840/adventure-sales-work/refs/heads/main/data/AdventureWorks_Sales_2017.csv",
+        "p_file":"Sales_2017",
+        "p_sink":"Sales_2017.csv"
+    },
+    {
+        "rel_url":"varunjain1840/adventure-sales-work/refs/heads/main/data/AdventureWorks_Territories.csv",
+        "p_file":"Territories",
+        "p_sink":"Territories.csv"
+    }
+    
+]
